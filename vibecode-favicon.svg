@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="vibe-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#98bb6c"/>
+      <stop offset="100%" stop-color="#957fb8"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#vibe-grad)"/>
+  <path d="M22 15c0 4.5-3 7-6.5 8.2a1 1 0 0 1-.6 0C11.5 22 8.5 19.5 8.5 15V8.5a1 1 0 0 1 .8-.9c1.8 0 4-1.1 5.5-2.4a1 1 0 0 1 1.4 0c1.5 1.3 3.7 2.4 5.5 2.4a1 1 0 0 1 .8.9V15z" fill="#1f1f28"/>
+  <path d="M12.5 15l2.5 2.5 4.5-4.5" fill="none" stroke="#98bb6c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
